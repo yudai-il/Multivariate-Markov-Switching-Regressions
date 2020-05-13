@@ -10,9 +10,11 @@ For Detail Usage can Go To
 
 An empirical Study based on China's macroeconomic and Financial Data.
 
-On the topic of 「Asymmetric effects of M2 on Stocks Market and substantial economy」.
+On the topic of 「Asymmetric effects of M2 on Stocks Market and substantial economy」.(Project during 2018)
 
 You can also use it to build a Statistical arbitrage Strategy using MS-VECM models.
+
+
 
 
             """ Notice：
