@@ -6,7 +6,7 @@ Reference From "
 
 
 For Detail Usage can Go To 
-<a href="https://mp.weixin.qq.com/s?__biz=MzI2NTkzNTI4NA==&mid=2247483706&idx=1&sn=05c17106854afe58956c78c1ef089360&chksm=ea9481e1dde308f7cd63ed944efdb742c5a3b4f994fd036f9032b4acd87e5c35940ae87edf52&token=1875766750&lang=zh_CN#rd">This Page</a>
+<a href=>This Page</a>
 
 An empirical Study based on China's macroeconomic and Financial Data.
 
