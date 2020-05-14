@@ -1,9 +1,33 @@
+###  Multivariate Markov-Switching Models Regressions Framework
 This Directory contains Multivariate Markov-Switching Models Regressions Framework Written in Python
 
 Reference From "
       Bellone B. Classical Estimationof Multivariate Markov-Switching Models using MSVARlib[J]. Econometrics, 2005.
       "
 
+You can use This Package to build a Statistical arbitrage Strategy using MS-VECM (Markov-Switching Vector Error correction Models.)
+<p>
+or Do some empirical Study of Asymmetric effects using MS-VAR( Markov-Switching Vector AutoRegression)
+<hr/>
+
+Some Results Display Here:
+
+Time variant impact of M2 on Stocks Market:
+<img src="https://github.com/yudai-il/Multivariate-Markov-Switching-Regressions/blob/master/results/4.png"/>
+<p>
+impluse response :
+<p>
+<img src="https://github.com/yudai-il/Multivariate-Markov-Switching-Regressions/blob/master/results/2.png"/>
+
+<hr/>
+
+Time variant impact of M2 on substantial economy:
+<img src="https://github.com/yudai-il/Multivariate-Markov-Switching-Regressions/blob/master/results/1.png"/>
+<p>
+impluse response :
+<p>
+<img src="https://github.com/yudai-il/Multivariate-Markov-Switching-Regressions/blob/master/results/3.png"/>
+<hr/>
 
 For Detail Usage can Go To 
 <a href=>This Page</a>
@@ -11,9 +35,6 @@ For Detail Usage can Go To
 An empirical Study based on China's macroeconomic and Financial Data.
 
 On the topic of 「Asymmetric effects of M2 on Stocks Market and substantial economy」.(Project during 2018)
-
-You can also use it to build a Statistical arbitrage Strategy using MS-VECM models.
-
 
 
 
