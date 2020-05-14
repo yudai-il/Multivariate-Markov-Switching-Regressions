@@ -13,7 +13,9 @@ or Do some empirical Study of Asymmetric effects using MS-VAR( Markov-Switching 
 Some Results Display Here:
 
 Time variant impact of M2 on Stocks Market:
+<p>
 <img src="https://github.com/yudai-il/Multivariate-Markov-Switching-Regressions/blob/master/results/4.png"/>
+
 <p>
 impluse response :
 <p>
@@ -22,6 +24,7 @@ impluse response :
 <hr/>
 
 Time variant impact of M2 on substantial economy:
+<p>
 <img src="https://github.com/yudai-il/Multivariate-Markov-Switching-Regressions/blob/master/results/1.png"/>
 <p>
 impluse response :
